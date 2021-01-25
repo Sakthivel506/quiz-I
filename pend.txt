@@ -1,0 +1,27 @@
+thejas
+adding questions
+
+mine
+printing
+#score
+#ranking
+updating score to zero when the user plays again
+
+arul
+#bg pics
+#synopsis
+
+
+finished 
+login
+create acc
+op screen
+choosing cate like op screen and true or false
+
+remaining:
++printing 
+  synopsis
+  add quest(half work done)
++scoring and ranking
++update score
+
